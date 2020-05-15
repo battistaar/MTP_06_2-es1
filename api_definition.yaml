@@ -45,7 +45,7 @@ paths:
       tags:
       - "todo"
       summary: "Ritorna una lista di todo"
-      description: ""
+      description: "di default la lista tornata comprende solo i task ancora da completare, usando il parametro showCompleted è possibile tornarli tutti"
       produces:
       - "application/json"
       parameters:
