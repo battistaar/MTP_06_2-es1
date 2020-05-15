@@ -1,6 +1,6 @@
 Realizzare un server che fornisca le API necessarie alla gestione di una lista di TODO.
 Con riferimento al codice di partenza alla repo https://github.com/battistaar/UC_06_2-es1 e alla definizione delle api nel file api_definition.yaml:
-- Implementare la definizione nel file todo.schema.js
+- Implementare la definizione dello schema nel file todo.schema.js
 - Implementare i metodi necessari nel file todo.model.js
 - Implementare i metodi necessari nel file todo.controller.js
 - Completare i file todo.router.js e router.js
