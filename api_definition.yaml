@@ -23,8 +23,7 @@ paths:
       - "application/json"
       parameters:
       - in: body
-        name: user
-        description: The user to create.
+        name: todo
         schema:
           type: object
           required:
