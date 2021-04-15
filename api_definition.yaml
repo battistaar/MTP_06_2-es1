@@ -38,9 +38,7 @@ paths:
         "201":
           description: "successful operation"
           schema:
-            type: "array"
-            items:
-              $ref: "#/definitions/Todo"
+            $ref: "#/definitions/Todo"
     get:
       tags:
       - "todo"
