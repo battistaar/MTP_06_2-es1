@@ -1,3 +1,4 @@
+const notFount = require('./notfound');
+const internal = require('./internal');
 
-
-module.exports = [];
+module.exports = [notFount, internal];
